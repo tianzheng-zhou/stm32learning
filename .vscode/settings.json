@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "functions.h": "c",
+        "led_on_board.h": "c"
+    },
+    "marscode.chatLanguage": "cn"
+}
